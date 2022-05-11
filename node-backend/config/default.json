@@ -1,0 +1,11 @@
+{
+  "name": "default config",
+  "requiresAuth": false,
+  "database": {
+    "host": "mysql5034.site4now.net",
+    "user": "a7e6dc_test",
+    "port": "3306",
+    "database": "db_a7e6dc_test",
+    "password": "01003494703Mn@"
+  }
+}

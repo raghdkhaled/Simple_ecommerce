@@ -1,0 +1,11 @@
+.loadingIndicator {
+  margin: 0;
+  border: 10px solid #d3d3d3;
+  border-top: 10px solid #0046be;
+  border-radius: 100%;
+  width: 90px;
+  height: 90px;
+
+  -webkit-animation: spin 1s linear infinite;
+  animation: spin 1s linear infinite;
+}
